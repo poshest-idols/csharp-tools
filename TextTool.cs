@@ -8,3 +8,4 @@ namespace CSharpTools {
     }
   }
 }
+    public static string UpperCase(string input) => input.ToUpper();
