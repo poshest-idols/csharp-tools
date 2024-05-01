@@ -9,3 +9,5 @@ A collection of useful C# console scripts for various tasks.
 
 ### MathTool
 
+## License
+This repository is licensed under the MIT License. See LICENSE for details.
